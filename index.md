@@ -5,11 +5,11 @@
 ### Category Name 1 
 
 [Project 1 TOP 20 HIGHEST RANKING COUNTRIES GDP]()
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Image 22.heic?raw=true"/>
 
 ---
 [Project 2 KING COUNTY HOUSE SALES DASHBAORD](/pdf/sample_presentation.pdf)
-<img src="Tableau.hcei/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Tableau .heic?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
