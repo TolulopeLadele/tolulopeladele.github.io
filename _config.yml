@@ -6,7 +6,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p><strong>About Me</strong>
   <br><br>
   Hello! I'm Tolulope Ladele, an aspiring data analyst with a strong foundation in data visualization, statistical analysis, and data-driven decision-making. With expertise in Azure, Power BI, Tableau, Python, and R, I am well-equipped to turn complex data into actionable insights.
-  I recently graduated with a degree in Data Science, where I developed a passion for uncovering patterns and trends in data. During my studies, I completed several projects that allowed me to apply my skills in real-world scenarios. For example, I created an interactive dashboard in Power BI that visualized sales data for a local business, helping them identify key areas for growth and efficiency improvements.
   <p><strong>My technical skills include: </strong>
   Azure, Power BI & Tableau, Python & R, Machine learning
   <br><br>
@@ -17,4 +16,5 @@ description: > # your text below (remove <br> elements if you don't need line br
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
