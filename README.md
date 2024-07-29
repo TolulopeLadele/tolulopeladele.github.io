@@ -1,51 +1,29 @@
-## Developer Portfolio Landing Page Template
+<h1 align="center">Hi 👋, I'm Tolulope Ladele</h1>
+<h3 align="center">Data Analyst</h3>
 
-### Introduction
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tolulopeladele" alt="tolulopeladele" /></a> </p>
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+- 🔭 I’m currently working on [HR Data visualization](https://public.tableau.com/views/HRPROJECTENDTOEND/HRsummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-<img src="images/demo.gif?raw=true"/>
+- 🌱 I’m currently learning **PowerBI and visualization tools**
 
-### Installation
+- 👯 I’m looking to collaborate on **Any other project.**
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+- 👨‍💻 All of my projects are available at [Tolulopeladele.GitHub.io](Tolulopeladele.GitHub.io)
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+- 💬 Ask me about **Python and R**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 📫 How to reach me **laddletolulope@icloud.com**
 
-### Markdown
+- ⚡ Fun fact **I am a very positive person**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-```markdown
-Syntax highlighted code block
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-# Header 1
-## Header 2
-### Header 3
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tolulopeladele&show_icons=true&locale=en&layout=compact" alt="tolulopeladele" /></p>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolulopeladele&show_icons=true&locale=en" alt="tolulopeladele" /></p>
